@@ -171,7 +171,9 @@ You can deploy this project using:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-No features
+- Navigation menu in the header.
+- Form with a submit button.
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -189,8 +191,6 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
-
 If you like this project and you think is useful to someone please share it  
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -198,8 +198,6 @@ If you like this project and you think is useful to someone please share it
 <!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
-
-> Give credit to everyone who inspired your codebase.
 
 I would like to thank team of microverse and the micronauts for hitting me up with new knowledge.
 
@@ -215,7 +213,5 @@ I would like to thank team of microverse and the micronauts for hitting me up wi
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
